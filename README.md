@@ -1,0 +1,3 @@
+# Typescript Pratice
+
+Learn Typescript
